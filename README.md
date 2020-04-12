@@ -1,6 +1,6 @@
 # Online-Booking-system
 
-# Introduction
+**Introduction**
 The online booking system is web-based booking app build with PHP HTML, css and JS.
 
 # Motivation and Product Scope
